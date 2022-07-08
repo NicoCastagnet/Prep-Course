@@ -1,0 +1,10 @@
+Variables: Una variable es algo en donde podemos almacenar información. A las variables se les puede designar un nombre, el cual puede servir para identificar la misma en el proceso, y también se le puede designar un valor, el cual puede ser modificado en cualquier momento.
+Las variables tienen tres formas de ser declaradas. La variable de tipo "var", la tipo "let" y la tipo "const", cada una con su respectiva función especifica.
+
+String: Una string, es una forma de almacernar información de texto. Estas se declaran junto con una variable y siempre se definen con comillas (simples o dobles). Ej: var test = 'test'
+
+Funciones: Una función es un conjunto de instrucciones unidas para obtener un resultado. Las funciones deben tener un dato de entrada (argumentos) y otro de salida (return).
+
+Declaraciones if: Las declaraciones de tipo "if" son utilizadas para hacer comparaciones y arrojar resultados. Es decir, SI pasa algo, DEVOLVER un resultado.
+
+Valores booleanos: Los valores booleanos solo tienen dos opciones de resultado, verdadero (true) o falso (false). Se utilizan para saber si una declaración cumple con estas especificaciones.
